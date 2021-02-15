@@ -15,7 +15,9 @@
 
 <img align="left" alt="erfan_6789 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="erfan-hanifezade-07239b201 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="erfanhanifezade | Instagram" width="22px" src="https://www.instagram.com/erfan_hanifezadee/" />
+<a href="https://www.instagram.com/erfan_hanifezadee/">
+<img align="left" alt="erfanhanifezade | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br />
 

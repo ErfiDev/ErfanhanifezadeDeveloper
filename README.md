@@ -1,7 +1,6 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+### Hi there, I'm Erfan 👋
+ 
+<br />
 
 ## I'm a Developer, and Teacher!!
 
@@ -13,9 +12,15 @@
 
 ### Connect with me:
 
+<a href="https://twitter.com/erfan_6789" target="_blank">
 <img align="left" alt="erfan_6789 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/erfan-hanifezade-07239b201/" target="_blank">
 <img align="left" alt="erfan-hanifezade-07239b201 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<a href="https://www.instagram.com/erfan_hanifezadee/">
+</a>
+
+<a href="https://www.instagram.com/erfan_hanifezadee/" target="_blank">
 <img align="left" alt="erfanhanifezade | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 

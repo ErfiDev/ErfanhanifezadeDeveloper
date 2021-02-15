@@ -31,7 +31,7 @@
 <img align="left" alt="erfanhanifezade | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="tg://resolve?domain=Erfan_Hanifezade">
+<a href="https://t.me/Erfan_Hanifezade">
 <img align="left" alt="Erfan_Hanifezade | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
 </a>
 

@@ -5,9 +5,17 @@
 ## I'm a Developer, and Teacher!!
 
 - 🌱 I’m currently learning NodeJS 🤞
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm a fan of Battlefield online games!
+
+
+## My Skills...
+
+- <HTML>
+- {CSS} + &Sass
+- ${JavaScript} + $(jQuery)
+- React.js
+- Git & GitHub
+- Nodejs [Not Bad] 
 
 
 ### Connect with me:

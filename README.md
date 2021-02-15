@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm a fan of Battlefield online games!
 
 
-## My Skills...
+## My Skills/Languages...
 
 - < HTML />
 - {CSS} + &Sass

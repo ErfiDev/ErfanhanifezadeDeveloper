@@ -1,6 +1,6 @@
 ### Hi there, I'm Erfan 👋
  
- 
+
 ## I'm a Developer, and Teacher!!
 
 - 🌱 I’m currently learning NodeJS 🤞
@@ -19,16 +19,20 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/erfan_6789" target="_blank">
+<a href="https://twitter.com/erfan_6789">
 <img align="left" alt="erfan_6789 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/erfan-hanifezade-07239b201/" target="_blank">
+<a href="https://www.linkedin.com/in/erfan-hanifezade-07239b201/">
 <img align="left" alt="erfan-hanifezade-07239b201 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/erfan_hanifezadee/" target="_blank">
+<a href="https://www.instagram.com/erfan_hanifezadee/">
 <img align="left" alt="erfanhanifezade | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="tg://resolve?domain=Erfan_Hanifezade">
+<img align="left" alt="Erfan_Hanifezade | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
 </a>
 
 <br />

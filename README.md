@@ -1,7 +1,6 @@
 ### Hi there, I'm Erfan 👋
  
-<br />
-
+ 
 ## I'm a Developer, and Teacher!!
 
 - 🌱 I’m currently learning NodeJS 🤞
@@ -10,7 +9,7 @@
 
 ## My Skills...
 
-- <HTML>
+- < HTML />
 - {CSS} + &Sass
 - ${JavaScript} + $(jQuery)
 - React.js

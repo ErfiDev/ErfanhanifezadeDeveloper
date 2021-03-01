@@ -15,7 +15,8 @@
 - JavaScript + $( jQuery )
 - React.js
 - Git & GitHub
-- Nodejs [Not Bad] 
+- Nodejs [Learning]
+- Golang [The Goal One Year Later] 
 
 
 ### Connect with me:

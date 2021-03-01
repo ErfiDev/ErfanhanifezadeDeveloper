@@ -9,9 +9,10 @@
 
 ## My Skills/Languages...
 
+- C [Not Bad]
 - < HTML />
-- {CSS} + &Sass
-- ${JavaScript} + $(jQuery)
+- { CSS } + Sass
+- JavaScript + $( jQuery )
 - React.js
 - Git & GitHub
 - Nodejs [Not Bad] 

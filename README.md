@@ -9,15 +9,17 @@
 
 ## My Skills/Languages...
 
-- C [Not Bad]
-- < HTML />
-- { CSS } + Sass
-- JavaScript + $( jQuery )
-- React.js
-- Git & GitHub
-- Nodejs [Learning]
-- Golang [The Goal One Year Later] 
-
+<p align="left">
+<img src="https://img.icons8.com/color/48/000000/c.png" alt="C" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/html.png" alt="html" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/css.png" alt="css" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/github.png" alt="github" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/golang.png" alt="golang" width="40" height="40"/>
+</p>
 
 ### Connect with me:
 

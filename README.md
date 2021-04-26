@@ -16,6 +16,7 @@
 - React.js
 - Git & GitHub & GitLab
 - Nodejs + MongoDB + ExpressJS
+- GraphQl 
 - Golang [The Goal One Year Later] 
 
 

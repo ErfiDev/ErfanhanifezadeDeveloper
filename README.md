@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning NodeJS 🤞
 - ⚡ Fun fact: I'm a fan of Battlefield online games!
 
+<br >
+
 
 ## My Skills/Languages...
 
@@ -23,7 +25,7 @@
 - Golang [The Goal One Year Later] 
 - Other skills not mentioned...
 
-
+<br >
 
 ### Connect with me:
 

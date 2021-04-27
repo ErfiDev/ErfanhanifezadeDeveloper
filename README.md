@@ -21,7 +21,6 @@
 - C [Not Bad]
 - RegExp [Not Bad]
 - Golang [The Goal One Year Later] 
-<br>
 - Other skills not mentioned...
 
 

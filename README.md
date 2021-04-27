@@ -9,7 +9,6 @@
 
 ## My Skills/Languages...
 
-- C [Not Bad]
 - < HTML />
 - { CSS } + Sass
 - JavaScript + $( jQuery )
@@ -17,8 +16,13 @@
 - Git & GitHub & GitLab
 - Nodejs + MongoDB + ExpressJS
 - GraphQl 
-- /\RegEx$/
+- Database & Sql
+- Vue.js [Not Bad]
+- C [Not Bad]
+- RegExp [Not Bad]
 - Golang [The Goal One Year Later] 
+<br>
+- Other skills not mentioned...
 
 
 ### Connect with me:

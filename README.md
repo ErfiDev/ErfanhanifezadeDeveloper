@@ -17,7 +17,7 @@
 - Git & GitHub & GitLab
 - Nodejs + MongoDB + ExpressJS
 - GraphQl 
-- \/.(RegEx | Regular expression)$/
+- /\RegEx$/
 - Golang [The Goal One Year Later] 
 
 

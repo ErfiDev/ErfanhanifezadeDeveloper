@@ -82,6 +82,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ErfanhanifezadeDeveloper&theme=radical" alt="erfan :: Profile Stats" /></p>
 
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=ErfanhanifezadeDeveloper&theme=monokai&no-frame=true&margin-w=20&title=Stars,Commit,Issue,Follower,Repo,PullRequest&row=2&column=3" 
+   <img src="https://github-profile-trophy.vercel.app/?username=ErfanhanifezadeDeveloper&theme=monokai&no-frame=true&margin-w=2&title=Stars,Commit,Issue,Follower,Repo,PullRequest&row=2&column=3" 
         width="100%" >
 </p>
